@@ -1,3 +1,5 @@
+[UDAY_P.ipynb.txt](https://github.com/uday522/ShapeAI_UDAY_P/files/6495958/UDAY_P.ipynb.txt)
+[UDAY_P.ipynb.txt](https://github.com/uday522/ShapeAI_UDAY_P/files/6495959/UDAY_P.ipynb.txt)
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
